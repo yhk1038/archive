@@ -1,0 +1,1 @@
+- [Block vs Closure 차이](https://seungdols.tistory.com/522)
